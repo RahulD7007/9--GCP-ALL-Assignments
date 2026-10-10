@@ -1,0 +1,5 @@
+student_id,student_name,midterm_score,final_score,passed
+101,Alice Chen,85,92,TRUE
+102,Bob Smith,78,64,FALSE
+103,Charlie Kim,95,98,TRUE
+104,Diana Rossi,60,71,TRUE
